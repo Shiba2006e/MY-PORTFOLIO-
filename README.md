@@ -15,11 +15,15 @@ Welcome to my portfolio! Here you'll find a collection of my work, projects, and
 
 ## Projects
 
-### Project 1: [Project Title]
-- **Description**: [Brief overview of the project]
-- **Technologies Used**: [List of technologies, languages, and tools used]
+### Project 1: [Wireless Network WNE316D]
+- **Description**: Upon completion of this lab, you will be able to: 
+• Configure VLANs using switch port membership.
+• Configure VTP
+• Configure dynamic routing (using OSPF)
+• Test and verify full connectivity. 
+- **Technologies Used**: [CISCO PACKET TRACER]
 - **Role**: [Your role in the project]
-- **Outcome**: [Results or achievements]
+- **Outcome**: [79%]
 - **Link**: [Link to the project repository or demo]
 
 ### Project 2: [Project Title]
