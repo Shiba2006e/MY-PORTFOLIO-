@@ -24,7 +24,7 @@ Welcome to my portfolio! Here you'll find a collection of my work, projects, and
 - **Technologies Used**: [CISCO PACKET TRACER]
 - **Role**: [Your role in the project]
 - **Outcome**: [79%]
-- **Link**: [Link to the project repository or demo]
+- **Link**: [https://github.com/Shiba2006e/MY-PORTFOLIO-/blob/main/PracticalActivity_Ospf.pka]
 
 ### Project 2: [Project Title]
 - **Description**: [Brief overview of the project]
