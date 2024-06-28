@@ -1,5 +1,5 @@
 
-# My Portfolio
+# My Portfolio - SIBUSISO SHIBA
 
 Welcome to my portfolio! Here you'll find a collection of my work, projects, and contributions that showcase my skills and experience.
 
@@ -22,22 +22,22 @@ Welcome to my portfolio! Here you'll find a collection of my work, projects, and
 • Configure dynamic routing (using OSPF)
 • Test and verify full connectivity. 
 - **Technologies Used**: [CISCO PACKET TRACER]
-- **Role**: [Your role in the project]
+- **Role**: [ my role as the IT Manager was crucial in designing and implementing a robust, scalable, and secure network infrastructure for Company X. My efforts ensured that the network could support the company’s growth, maintain high performance, and provide reliable connectivity across all branches]
 - **Outcome**: [79%]
 - **Link**: [https://github.com/Shiba2006e/MY-PORTFOLIO-/blob/main/PracticalActivity_Ospf.pka]
 
-### Project 2: [Project Title]
-- **Description**: [Brief overview of the project]
-- **Technologies Used**: [List of technologies, languages, and tools used]
-- **Role**: [Your role in the project]
-- **Outcome**: [Results or achievements]
+### Project 2: [Network management 316R]
+- **Description**: [You are hired as an IT Manager for company X (please provide the company base on your group name that you have agreed)
+that is currently based in head office (Gauteng), due to its growth you are informed by the CEO that the company will nee d to 
+open new branches to the following provinces]
+- - **Technologies Used**: [microsoft visio, virtaulbox, windows xp, windows server 2012]
+- **Role**: [created subnets  CLASS A IP rage and helped with creating the topology ]
+- **Outcome**: [73]
 - **Link**: [Link to the project repository or demo]
 
-... (add more projects as needed)
 
-## Contributions
-- [Contribution 1]: [Description of the contribution and link to the repository]
-- [Contribution 2]: [Description of the contribution and link to the repository]
+
+
 
 ## Contact
-Feel free to reach out to me via [email] or connect with me on [LinkedIn].
+Feel free to reach out to me via Email or connect with me on [LinkedIn].
